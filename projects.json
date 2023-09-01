@@ -1,7 +1,7 @@
 [
     {
       "name": "Projeto X-men",
-      "image": "./src/img/project_card_nbk.png",
+      "image": "./src/img/project_one.PNG",
       "tags": ["JavaScript", "Conteúdo dinamico", "HTML", "CSS"],
       "link": "https://github.com/dangaldino/projeto-x-men"
     },
