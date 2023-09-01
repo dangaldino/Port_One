@@ -10,6 +10,12 @@
       "image": "./src/img/project_card_nbk.png",
       "tags": ["JavaScript", "Conteúdo dinamico", "HTML", "CSS"],
       "link": "https://github.com/dangaldino/card_nbk"
-    }
+    },
+    {
+    "name": "Cartão Nubank Efeito JavaScript",
+    "image": "./src/img/project_card_nbk.png",
+    "tags": ["JavaScript", "Conteúdo dinamico", "HTML", "CSS"],
+    "link": "https://github.com/dangaldino/card_nbk"
+  }
 
 ]
