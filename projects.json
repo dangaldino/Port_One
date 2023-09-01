@@ -1,0 +1,15 @@
+[
+    {
+      "name": "Projeto X-men",
+      "image": "./src/img/project_one.png",
+      "tags": ["JavaScript", "Conteúdo dinamico", "HTML", "CSS"],
+      "link": "https://github.com/dangaldino/projeto-x-men"
+    },
+      {
+      "name": "Cartão Nubank Efeito JavaScript",
+      "image": "./src/img/project_card_nbk.png",
+      "tags": ["JavaScript", "Conteúdo dinamico", "HTML", "CSS"],
+      "link": "https://github.com/dangaldino/card_nbk"
+    }
+
+]
